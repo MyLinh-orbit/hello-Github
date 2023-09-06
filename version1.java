@@ -3,7 +3,7 @@ public class version1{
             return true;
     }
     public static void main(String[] agrs){
-        System.out.println("this is on main branch");
+        System.out.println("this is on merge comflict branch");
         version1 version = new version1();
         version.isSaying();
     }
