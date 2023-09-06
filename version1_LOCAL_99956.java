@@ -1,7 +1,5 @@
 public class version1{
     private boolean isSaying(){
-        int n = 0;
-        n++;
             return true;
     }
     public static void main(String[] agrs){

@@ -5,7 +5,8 @@ public class version1{
             return true;
     }
     public static void main(String[] agrs){
-        System.out.println("this is merge from master");
+        System.out.println("this is on merge comflict branch test2");
+        System.out.println("this is on merge comflict branch dev test3");
         version1 version = new version1();
         version.isSaying();
     }
